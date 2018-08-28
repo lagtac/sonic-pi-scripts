@@ -1,4 +1,5 @@
-# Welcome to Sonic Pi v3.1
+# apokofto
+
 bpm = 120
 
 live_loop :guitarr do
